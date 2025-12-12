@@ -1,5 +1,5 @@
 # Juan Manuel
-*Generative AI Lead | Data Scientist | AI Engineer*
+*Lead GenAI | Data Scientist | AI Engineer*
 ---
 
 ## About me
