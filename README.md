@@ -9,14 +9,14 @@ Experienced professional in generative AI operations, data science, and artifici
 
 ## Professional Experience
 ### Generative AI Lead  
-**PAX (Paris)** | *Current*  
+**PAX (Paris, France)** | *Current*  
 - Led the end-to-end development of an AI agent, from initial conception through to production deployment.  
 - Implemented tool evaluation using the "LLM as a Judge" methodology.  
 - Deployed the model on Google Cloud Run, ensuring security via IP address filtering configured at the Load Balancer level.  
 - Managed integration of the AI tool with the company's CRM system.
 
 ### AI Operations & Data Scientist  
-**Dentsu** | *Previous*  
+**Dentsu** (Madrid, Spain) |
 - Designed and deployed an LLM RAG chatbot using LangChain on Google Cloud Platform (GCP), evolving from proof-of-concept to production-ready solution.  
 - Achieved over 80% code test coverage in Python, adhering to clean code principles and modular architecture; utilized relational, non-relational, and vector databases.  
 - Developed and optimized ETL pipelines in RStudio, orchestrated with Airflow; enriched marketing mix models with exogenous data from APIs, demonstrating expertise in Python, Pandas, and data quality control.  
