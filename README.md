@@ -16,7 +16,7 @@ Experienced professional in generative AI operations, data science, and artifici
 - Managed integration of the AI tool with the company's CRM system.
 
 ### AI Operations & Data Scientist  
-**Dentsu** (Madrid, Spain) |
+**Dentsu** (Madrid, Spain)
 - Designed and deployed an LLM RAG chatbot using LangChain on Google Cloud Platform (GCP), evolving from proof-of-concept to production-ready solution.  
 - Achieved over 80% code test coverage in Python, adhering to clean code principles and modular architecture; utilized relational, non-relational, and vector databases.  
 - Developed and optimized ETL pipelines in RStudio, orchestrated with Airflow; enriched marketing mix models with exogenous data from APIs, demonstrating expertise in Python, Pandas, and data quality control.  
@@ -48,7 +48,7 @@ Experienced professional in generative AI operations, data science, and artifici
 - Generative AI & LLMs (LangChain, LangGraph, RAG)  
 - Machine Learning (Marketing Mix Modeling, Regression, NLP)  
 - Programming: Python, R, Pandas  
-- Cloud Platforms: Google Cloud Platform (GCP), Google Cloud Run, Airflow  
+- Cloud Platforms: Google Cloud Platform (GCP), Google Cloud Run, Airflow
 - Data Engineering: ETL Pipelines, Databases (Relational, NoSQL, Vector)  
 - Tools: RStudio, Excalidraw, Azure Wiki  
 - Evaluation Methods: LLM as a Judge  
